@@ -28,8 +28,8 @@ backend - https://event-managment-qspc.onrender.com
       - JWT_SECRET=<Your JWT Secret Key>
       - PORT=<Your PORT>
   3. Run the backend :-
-      cd backend
-      npm run dev
+      - cd backend
+      - npm run dev
   4. Run the frontend:
-      cd frontend
-      npm start
+      - cd frontend
+      - npm start
