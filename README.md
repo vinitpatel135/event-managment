@@ -12,6 +12,7 @@ backend - https://event-managment-qspc.onrender.com
  - Responsive UI: Built with Bootstrap 5 and Material UI to ensure mobile and desktop compatibility.
  - Event Booking: Users can view event details and book participation.
  - Notifications: Display notifications using React Toastify.
+ - Email service: Confirms a user's event booking using # Nodemailer.
  - Image Uploads: Add images to events.
 
 # Installation
