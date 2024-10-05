@@ -7,13 +7,13 @@ Frontend - https://event-managment-jet.vercel.app
 backend - https://event-managment-qspc.onrender.com
 
 # Features
- - User Authentication: Login and Sign-up functionality.
- - Event Management: Users can create, update, delete, and view events.
- - Responsive UI: Built with Bootstrap 5 and Material UI to ensure mobile and desktop compatibility.
- - Event Booking: Users can view event details and book participation.
- - Notifications: Display notifications using React Toastify.
- - Email service: Confirms a user's event booking using # Nodemailer.
- - Image Uploads: Add images to events.
+ - **User Authentication**: Login and Sign-up functionality.
+ - **Event Management**: Users can create, update, delete, and view events.
+ - **Responsive UI**: Built with Bootstrap 5 and Material UI to ensure mobile and desktop compatibility.
+ - **Event Booking**: Users can view event details and book participation.
+ - **Notifications**: Display notifications using **React Toastify**.
+ - **Email service**: Confirms a user's event booking using **Nodemailer**.
+ - **Image Uploads**: Add images to events.
 
 # Installation
   1. Install dependencies :-
