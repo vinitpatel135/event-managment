@@ -24,9 +24,9 @@ backend - https://event-managment-qspc.onrender.com
          cd backend
          npm install
   2. Create a .env file in the backend directory with the following environment variables :-
-      MONGODB_URI=<Your MongoDB Connection String>
-      JWT_SECRET=<Your JWT Secret Key>
-      PORT=<Your PORT>
+      - MONGODB_URI=<Your MongoDB Connection String>
+      - JWT_SECRET=<Your JWT Secret Key>
+      - PORT=<Your PORT>
   3. Run the backend :-
       cd backend
       npm run dev
